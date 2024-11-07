@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:ifffShang/react_proj_web5610.git/static/css/main.10537fb3.css",
+    "main.js": "/git@github.com:ifffShang/react_proj_web5610.git/static/js/main.772afb10.js",
+    "static/js/453.2942d25d.chunk.js": "/git@github.com:ifffShang/react_proj_web5610.git/static/js/453.2942d25d.chunk.js",
+    "index.html": "/git@github.com:ifffShang/react_proj_web5610.git/index.html",
+    "main.10537fb3.css.map": "/git@github.com:ifffShang/react_proj_web5610.git/static/css/main.10537fb3.css.map",
+    "main.772afb10.js.map": "/git@github.com:ifffShang/react_proj_web5610.git/static/js/main.772afb10.js.map",
+    "453.2942d25d.chunk.js.map": "/git@github.com:ifffShang/react_proj_web5610.git/static/js/453.2942d25d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10537fb3.css",
+    "static/js/main.772afb10.js"
+  ]
+}
